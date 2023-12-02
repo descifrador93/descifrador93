@@ -14,6 +14,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=400&height=50&duration=3000&lines=Coding+is+a+Beautiful+World.;" />
 </h3>
 <br/>
+
+<h2 align="center"> 🏆 Trophies 🏆 </h2>
+<br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myordinaryworld" alt="myordinaryworld" /></a> </p>
 
 <!--<h3 align="center">👋 Connect with me 👋</h3>
