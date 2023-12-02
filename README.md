@@ -44,17 +44,14 @@
 
 <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=myordinaryworld&theme=dark" alt="myordinaryworld" />
 </div>
-<br/>
+<!--<br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DesciFradoR93/DesciFradoR93/output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/DesciFradoR93/DesciFradoR93/blob/output/github-contribution-grid-snake.svg)
   <br/><br/><br/>
 </div>
   <br/><br/>
   <hr/>
-  <br/>
-  <br/><br/><br/>
-</div>
+  <br/>-->
