@@ -15,6 +15,9 @@
 </h3>
 <br/>
 
+<h2 align="center"> My Discord Account </h2>
+<br/>
+<div align="center"><img src="file:///E:/Krishna%20-%20Current%20Data/Storage/titled.png" alt="Discord Account"></div>
 <!--<h2 align="center"> 🏆 Trophies 🏆 </h2>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myordinaryworld" alt="myordinaryworld" /></a> </p>-->
