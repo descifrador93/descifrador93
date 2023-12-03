@@ -17,7 +17,7 @@
 
 <h2 align="center">🪩 Discord Account 🪩</h2>
 <br/>
-<div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1180770633609658439/titled.png?ex=657ea158&is=656c2c58&hm=794e90658975d9e3b8ea31b4d6f13f5008f378f040ac15eb40458e420a2fb336&" alt="Discord Account"></div>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1180786291718242334/titled.png?ex=657eafed&is=656c3aed&hm=3813459b81bd90d7bc0c36311235dc85b487e274dea852d11094e903960d2137&" alt="Discord Account"></div>
 <!--<h2 align="center"> 🏆 Trophies 🏆 </h2>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myordinaryworld" alt="myordinaryworld" /></a> </p>-->
