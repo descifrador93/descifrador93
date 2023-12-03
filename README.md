@@ -17,7 +17,7 @@
 
 <h2 align="center"> My Discord Account </h2>
 <br/>
-<div align="center"><img src="file:///E:/Krishna%20-%20Current%20Data/Storage/titled.png" alt="Discord Account"></div>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1180768185302126673/titled.png?ex=657e9f10&is=656c2a10&hm=099cd58052d0c8f65f14bd73708883c0779cb1ad89d03966502be67e04758822&" alt="Discord Account"></div>
 <!--<h2 align="center"> 🏆 Trophies 🏆 </h2>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myordinaryworld" alt="myordinaryworld" /></a> </p>-->
