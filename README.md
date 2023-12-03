@@ -38,11 +38,11 @@
 <br>
 <br>
 <div align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=myordinaryworld&show_icons=true&theme=dark&locale=en&layout=compact" alt="myordinaryworld" />
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=DesciFradoR93&show_icons=true&theme=dark&locale=en&layout=compact" alt="myordinaryworld" />
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=myordinaryworld&show_icons=true&theme=dark&locale=en" alt="myordinaryworld" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=DesciFradoR93&show_icons=true&theme=dark&locale=en" alt="myordinaryworld" />
 
-<img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=myordinaryworld&theme=dark" alt="myordinaryworld" />
+<img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=DesciFradoR93&theme=dark" alt="myordinaryworld" />
 </div>
 <!--<br/>
 <hr/>
