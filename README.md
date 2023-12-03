@@ -15,7 +15,7 @@
 </h3>
 <br/>
 
-<h2 align="center"> My Discord Account </h2>
+<h2 align="center">🪩 Discord Account 🪩</h2>
 <br/>
 <div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1180770633609658439/titled.png?ex=657ea158&is=656c2c58&hm=794e90658975d9e3b8ea31b4d6f13f5008f378f040ac15eb40458e420a2fb336&" alt="Discord Account"></div>
 <!--<h2 align="center"> 🏆 Trophies 🏆 </h2>
