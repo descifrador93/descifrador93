@@ -27,13 +27,16 @@
 <a href="https://instagram.com/cursedclient2563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cursedclient2563" height="30" width="40" /></a>
 </p>-->
 <hr/>
-<h3 align="center">⛏️ Languages-Frameworks ⛏️</h3>
+<h2 align="center">⛏️ Languages-Frameworks ⛏️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,flask" /><br>
 </div>
 
+<br/><hr/>
+<h2 align="center">My Favourite Languages</h2>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1183115828779028590/bandicam_2023-12-10_00-09-01-897.jpg?ex=6587297a&is=6574b47a&hm=9f8db1209cdd47d51df3bcf1c88110c643816e46bcfc7ae7508a6975665c4644&"</div>
 <br/><hr/>
 
 
