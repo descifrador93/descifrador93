@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DesciFradoR;+93;" />
 </h1>
 
-<h1 align="center">👩‍💻 An Ordinary Programmer 👨‍💻</h1>
+<h1 align="center">Ordinary Programmer</h1>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=400&height=50&duration=3000&lines=Coding+is+a+Beautiful+World.;" />
 </h3>
@@ -27,7 +27,8 @@
 <a href="https://instagram.com/cursedclient2563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cursedclient2563" height="30" width="40" /></a>
 </p>-->
 <hr/>
-<h2 align="center">⛏️ Languages-Frameworks ⛏️</h2>
+<h2 align="center">⛏️ Languages ⛏️</h2>
+<h2 align="center">⛏️ Frameworks ⛏️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
