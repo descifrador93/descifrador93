@@ -27,8 +27,7 @@
 <a href="https://instagram.com/cursedclient2563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cursedclient2563" height="30" width="40" /></a>
 </p>-->
 <hr/>
-<h2 align="center">⛏️ Languages ⛏️</h2>
-<h2 align="center">⛏️ Frameworks ⛏️</h2>
+<h2 align="center">⛏️ Languages ⛏️<br>&<br>⛏️ Frameworks ⛏️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
