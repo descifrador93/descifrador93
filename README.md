@@ -35,7 +35,7 @@
 </div>
 
 <br/><hr/>
-<h2 align="center"My Favourite Languages"</h2>
+<h2 align="center">👌 My Favourite Languages 👌</h2>
 <div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1183115828779028590/bandicam_2023-12-10_00-09-01-897.jpg?ex=6587297a&is=6574b47a&hm=9f8db1209cdd47d51df3bcf1c88110c643816e46bcfc7ae7508a6975665c4644&"</div>
 <br/><hr/>
 
