@@ -48,6 +48,9 @@
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=descifrador93&show_icons=true&theme=dark&locale=en" alt="descifrador93" />
     <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=descifrador93&theme=dark" alt="descifrador93" />
 </div>
+<hr/>
+<h3 align="center">Close Friend on Github</h3>
+<img align="center" src="https://cdn.discordapp.com/attachments/1054645111834812467/1183130287236993094/image.png?ex=658736f1&is=6574c1f1&hm=f554ec05286dea564603698d76abd5612346fe9a5b0e70ad3ceae062a21cf8a5&" >
 <!--<br/>
 <hr/>
 <div align="center">
